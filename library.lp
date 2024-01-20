@@ -1,0 +1,11 @@
+(librepcb_library eb3e930d-ab42-40c8-8495-877c6b5b6f5b
+ (name "RP2040")
+ (description "Raspberry Pi's RP2040 (unofficial)")
+ (keywords "")
+ (author "Vadim Kolontsov")
+ (version "0.1")
+ (created 2024-01-19T13:11:20Z)
+ (deprecated false)
+ (url "https://github.com/kolontsov/rp2040.lplib")
+ (manufacturer "Raspberry Pi")
+)
